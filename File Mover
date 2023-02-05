@@ -1,0 +1,6 @@
+import shutil
+
+src = '/path/to/source/file'
+dst = '/path/to/destination/folder'
+
+shutil.move(src, dst)
